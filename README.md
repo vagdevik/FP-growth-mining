@@ -1,7 +1,13 @@
+# FP growth
+C implementation of FP growth tree and mining frequent itemsets.
+
+
+### Note
 Please execute the following command to run the code:
+```
 gcc fpTree_final.c  -lm
 ./a.out
-
+```
 Note:
 1. Let the data file be in the same folder as that of the code file.
 2. Attached files output_0.02.txt and output_0.05.txt contain the outputs of the code for the minimum support of 0.02 and 0.05 respectively.
